@@ -82,6 +82,7 @@ Production servers you can call today without self-hosting. Priced per call, no 
 
 - **[MCP Inspector](https://github.com/modelcontextprotocol/inspector)** — the debugger / test harness. Essential.
 - **[create-mcp-server](https://www.npmjs.com/package/create-mcp-server)** — scaffold a new TypeScript MCP server.
+- **[mcp-server-apify-starter](https://github.com/godberrystudios/mcp-server-apify-starter)** — production-ready starter for a pay-per-use MCP server on Apify. Streamable HTTP + pay-per-event billing wired up.
 - **MCP-Vercel templates** — search the Vercel templates for "MCP" to deploy in one click.
 
 ---
