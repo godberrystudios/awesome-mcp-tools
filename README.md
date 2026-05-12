@@ -63,9 +63,7 @@ Production servers you can call today without self-hosting. Priced per call, no 
 - **[Content-to-Social MCP Server](https://apify.com/godberry/content-to-social-mcp)** — turn any URL, article, or text into ready-to-post social content (X, LinkedIn, Facebook). Callable from Claude, ChatGPT, any MCP client. $0.07 / transformation.
 - **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper)** — Google Maps reviews for any business, under 60s, validated across 9 countries. From $0.10 / place.
 
-### Others
-
-*(Add well-known commercial MCP servers here. Suggested entries to verify and include: Apify MCP, Zapier MCP, Composio MCP, Pipedream MCP, Brave Search MCP.)*
+PRs welcome to add other commercial MCP servers here — see [How to contribute](#how-to-contribute) below.
 
 ---
 
@@ -73,8 +71,6 @@ Production servers you can call today without self-hosting. Priced per call, no 
 
 - **[MCP reference servers](https://github.com/modelcontextprotocol/servers)** — official collection (filesystem, git, github, postgres, slack, memory, fetch, and more). Start here.
 - **[Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)** — community list, larger and broader than this file; cross-referenced where useful.
-
-*(Pick out the highest-quality self-hosted servers and list them with one-line descriptions. Keep signal-to-noise high.)*
 
 ---
 
@@ -99,9 +95,9 @@ The MCP era is being built on a small stack of complementary protocols. Know the
 
 ## Articles & learning
 
-- **[Godberry Studios Blog](https://godberrystudios.com/)** — deep-dives on MCP security, x402, WebMCP, and shipping MCP servers for pay.
+- **[Godberry Studios Blog](https://godberrystudios.com/)** — deep-dives on MCP security, x402, WebMCP, and shipping commercial MCP servers.
+- **[Godberry Studios on Facebook](https://www.facebook.com/profile.php?id=61570965581596)** — short-form notes, build-log cards, and shipping moments.
 - **[Anthropic's MCP launch post](https://www.anthropic.com/news/model-context-protocol)** — the original announcement and rationale.
-- *(Add high-quality third-party posts as the ecosystem publishes them.)*
 
 ---
 
