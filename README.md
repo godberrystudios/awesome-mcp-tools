@@ -62,6 +62,7 @@ Production servers you can call today without self-hosting. Priced per call, no 
 
 - **[Content-to-Social MCP Server](https://apify.com/godberry/content-to-social-mcp)** — turn any URL, article, or text into ready-to-post social content (X, LinkedIn, Facebook). Callable from Claude, ChatGPT, any MCP client. $0.07 / transformation.
 - **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper)** — Google Maps reviews for any business, under 60s, validated across 9 countries. From $0.10 / place.
+- **[Yelp Scraper](https://apify.com/godberry/yelp-scraper)** — full Yelp business profile + all reviews + menu + photo gallery in a single call. Worldwide (any `yelp.<tld>`), multilingual dates, no Yelp Fusion API key, no 3-review cap. Pay-per-event: $0.004 / business + $0.0008 / review + $0.0005 / menu item.
 
 PRs welcome to add other commercial MCP servers here — see [How to contribute](#how-to-contribute) below.
 
