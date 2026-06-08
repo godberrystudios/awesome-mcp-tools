@@ -64,6 +64,10 @@ Production servers you can call today without self-hosting. Priced per call, no 
 - **[Google Reviews Scraper](https://apify.com/godberry/google-reviews-scraper?fpr=ewv9tm)** — Google Maps reviews for any business, under 60s, validated across 9 countries. From $0.10 / place.
 - **[Yelp Scraper](https://apify.com/godberry/yelp-scraper?fpr=ewv9tm)** — full Yelp business profile + all reviews + menu + photo gallery in a single call. Worldwide (any `yelp.<tld>`), multilingual dates, no Yelp Fusion API key, no 3-review cap. Pay-per-event: $0.004 / business + $0.0008 / review + $0.0005 / menu item.
 
+### TWZRD
+
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — trust scoring and x402 payment readiness checks for Solana AI agent wallets. `score_agent(wallet)` and `preflight_check(wallet)` are free; `get_trust_receipt(wallet)` is pay-per-call via HTTP 402. Zero-install: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 PRs welcome to add other commercial MCP servers here — see [How to contribute](#how-to-contribute) below.
 
 ---
