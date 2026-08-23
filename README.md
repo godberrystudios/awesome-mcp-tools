@@ -72,6 +72,7 @@ PRs welcome to add other commercial MCP servers here — see [How to contribute]
 
 - **[MCP reference servers](https://github.com/modelcontextprotocol/servers)** — official collection (filesystem, git, github, postgres, slack, memory, fetch, and more). Start here.
 - **[Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)** — community list, larger and broader than this file; cross-referenced where useful.
+- **[Pocket Drives](https://github.com/RevList/pocket-drives-mcp)** — Search peer-to-peer luxury, exotic, and EV rentals from independent hosts. Remote Streamable HTTP at https://pocketdrives.ai/mcp, no auth.
 
 ---
 
